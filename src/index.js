@@ -3,8 +3,11 @@
 //Gustavo Sosa
 
 //Jose Quispe
-
 //En otra rama
+
+//Nuevos Movimientos en esta RAMA QUE SOLO ESTA EN MI COMPUTADORA
+
+
 const auto01 = {
     patente: 1,
     marca: "ford",
