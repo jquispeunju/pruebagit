@@ -1,5 +1,6 @@
 
 /*1
+//Gustavo Sosa
 const auto01 = {
     patente: 1,
     marca: "ford",
@@ -90,7 +91,7 @@ document.getElementById("b01").onclick = ()=>{
     //automoviles.map( (cadaAuto) =>{
     //});
 
-    //automoviles.filter
+    automoviles.filter
 
     document.getElementById("sp01").innerHTML = automoviles[0].marca;
     document.getElementById("p01").innerHTML = automoviles[0].precio;
