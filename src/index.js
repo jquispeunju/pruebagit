@@ -9,6 +9,7 @@
 
 //por fin en mi rama
 
+//Otro texto en mi rama
 
 const auto01 = {
     patente: 1,
