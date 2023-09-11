@@ -1,6 +1,8 @@
 
 /*1
 //Gustavo Sosa
+
+//Jose Quispe
 const auto01 = {
     patente: 1,
     marca: "ford",
