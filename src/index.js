@@ -1,17 +1,7 @@
+//aquí intentaré mostrar que los cambios los realizo en mi branch y listo
 
 /*1
-//Gustavo Sosa
 
-//Jose Quispe
-//En otra rama
-
-//Nuevos Movimientos en esta RAMA QUE SOLO ESTA EN MI COMPUTADORA
-
-//por fin en mi rama
-
-//Otro texto en mi rama
-
-//Nuevo texto en mi rama
 const auto01 = {
     patente: 1,
     marca: "ford",
