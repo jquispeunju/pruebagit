@@ -1,3 +1,4 @@
+import Automovil from "./Automovil";
 //aquí intentaré mostrar que los cambios los realizo en mi branch y listo
 
 /*1
@@ -100,11 +101,6 @@ document.getElementById("b01").onclick = ()=>{
     document.getElementById("p02").innerHTML = automoviles[1].precio;
     document.getElementById("sp03").innerHTML = automoviles[2].marca;
     document.getElementById("p03").innerHTML = automoviles[2].precio;
-
-
-
-
-
 };
 
 function guardarAutomovil(automovil) {
@@ -117,6 +113,7 @@ function generarId(){
     return automoviles.length + 1;
 };
 
+/*
 class Automovil{
     constructor(marca,precio){
         this.marca=marca;
@@ -133,3 +130,4 @@ class Automovil{
     };
     
 };
+*/
