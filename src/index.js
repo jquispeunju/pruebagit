@@ -12,6 +12,7 @@
 //Otro texto en mi rama
 
 //Nuevo texto en mi rama
+
 const auto01 = {
     patente: 1,
     marca: "ford",
@@ -81,6 +82,15 @@ function generarId(){
 */
 
 //3
+
+//Iterar en un vector
+// foreach: ejecuta una funcion en cada uno de los elementos del vector
+
+const vectorNumeros = [2, 5, 8, 10];
+
+vectorNumeros.forEach(function(numero){
+    console.log(numero);
+})
 
 let automoviles = [];
 
