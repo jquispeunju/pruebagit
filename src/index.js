@@ -1,17 +1,7 @@
+import Automovil from "./Automovil.js";
+//aquí intentaré mostrar que los cambios los realizo en mi branch y listo
 
 /*1
-//Gustavo Sosa
-
-//Jose Quispe
-//En otra rama
-
-//Nuevos Movimientos en esta RAMA QUE SOLO ESTA EN MI COMPUTADORA
-
-//por fin en mi rama
-
-//Otro texto en mi rama
-
-//Nuevo texto en mi rama
 
 const auto01 = {
     patente: 1,
@@ -120,11 +110,6 @@ document.getElementById("b01").onclick = ()=>{
     document.getElementById("p02").innerHTML = automoviles[1].precio;
     document.getElementById("sp03").innerHTML = automoviles[2].marca;
     document.getElementById("p03").innerHTML = automoviles[2].precio;
-
-
-
-
-
 };
 
 function guardarAutomovil(automovil) {
@@ -137,6 +122,7 @@ function generarId(){
     return automoviles.length + 1;
 };
 
+/*
 class Automovil{
     constructor(marca,precio){
         this.marca=marca;
@@ -153,3 +139,4 @@ class Automovil{
     };
     
 };
+*/
