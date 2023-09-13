@@ -73,6 +73,15 @@ function generarId(){
 
 //3
 
+//Iterar en un vector
+// foreach: ejecuta una funcion en cada uno de los elementos del vector
+
+const vectorNumeros = [2, 5, 8, 10];
+
+vectorNumeros.forEach(function(numero){
+    console.log(numero);
+})
+
 let automoviles = [];
 
 document.getElementById("b01").onclick = ()=>{
