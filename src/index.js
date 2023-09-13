@@ -1,4 +1,4 @@
-import Automovil from "./Automovil";
+import Automovil from "./Automovil.js";
 //aquí intentaré mostrar que los cambios los realizo en mi branch y listo
 
 /*1
